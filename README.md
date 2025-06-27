@@ -6,25 +6,25 @@ We come from Italy, Spain, Peru, and Scotland, and we’ve built this small (but
 
 ## 🕹️ Project: Don't Blink!
 Think _Subway Surfers_ but:
-- You don't collect coins.
-- You don't press buttons.
-- And you're occasionally held hostage by memes.
+- You **don't collect coins**.
+- You **don't press buttons**.
+- And you're occasionally **held hostage by memes**.
 
 Yes, really.
 
-You dodge obstacles using your eyes, thanks to an eye-tracking system built into Unity. But we made it even dumber smarter: sometimes a meme will pop up on the screen, and the only way to make it disappear is by looking directly at it.
+You **dodge obstacles using your eyes**, thanks to an eye-tracking system built into Unity. But we made it even dumber smarter: sometimes a meme will pop up on the screen, and the only way to make it disappear is by **looking directly at it**.
 That’s right: you must acknowledge the meme to proceed. You can’t escape it. This is your life now.
 
-But what about the AI?
+### But what about the AI?
 Well… we were planning to build a Python-based ML eye tracker from scratch.
-Then we found out Unity already had a plugin for that.
+Then we found out **Unity already had a plugin** for that.
 
 So the two ML experts on the team did what any responsible machine learning engineers would do:
-Pivoted to full-time meme collection.
-And meme deployment.
-And now, meme README writing.
+**Pivoted to full-time meme collection**.
+And **meme deployment**.
+And now, **meme README writing**.
 
-**How it works**
+### How it works
 - The player moves left and right based on your gaze (using Unity's eye-tracking integration).
 - Obstacles come flying at you like your to-do list.
 - Memes pop up randomly. You have to look at them to make them disappear.
@@ -49,6 +49,7 @@ Disclaimer: It works on our machines™️
 - Stare into the void. The void stares back.
 - Look around. Obey the memes. Dodge the chaos.
 
+![IMPORTANT]
 Note: Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
 
 ## Known Issues 🐛
