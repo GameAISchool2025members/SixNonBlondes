@@ -37,11 +37,11 @@ And now, **meme README writing**.
 - A whole lot of not doing ML
 
 ## Installation 🚀
-**NOTE**
-Disclaimer: It works on our machines™️
+> **NOTE**
+> Disclaimer: It works on our machines™️
 
-[!NOTE]
-2nd Disclaimer: Works best with functioning eyes and questionable humor tolerance.
+> [!NOTE]
+> 2nd Disclaimer: Works best with functioning eyes and questionable humor tolerance.
 
 - Clone this repo.
 - Open the Unity project.
