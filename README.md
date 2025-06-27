@@ -4,7 +4,7 @@ Hello! We are six non-blond people in a very blond city (hi Malmö 👋), attend
 
 We come from Italy, Spain, Peru, and Scotland, and we’ve built this small (but fierce 💥) project in just a day and a half during the Game Jam. The times we didn’t sleep? Honestly, mostly because we were out drinking **blonde** beers 🍺 — for research purposes, obviously.
 
-## 🕹️ Project: Don't Blink!
+## 🕹️ Project:
 Think _Subway Surfers_ but:
 - You **don't collect coins**.
 - You **don't press buttons**.
@@ -61,13 +61,13 @@ Game does not detect side-eye (yet).
 ## Team 🧑‍🚀🧑‍🔬
 We are SixNonBlondes, aka:
 
-🇮🇹 4xItalians (Mama mia 🤌)
+🇮🇹 Nini, Zozo and Teo (honorific mention to Toto) - Mama mia 🤌.
 
-🇪🇸 1xSpaniards
+🇪🇸 Yei
 
-🇵🇪 1xPeruvians
+🇵🇪 Dani
 
-🇬🇧 1xScottish people
+🇬🇧 Vin
 
 No blondes were involved in the making of this game.
 The only blondes involved were the beers. And they were deeply appreciated. 🍻
