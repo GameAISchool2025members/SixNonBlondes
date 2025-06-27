@@ -5,7 +5,7 @@ Hello! We are six non-blond people in a very blond city (hi Malmö 👋), attend
 We come from Italy, Spain, Peru, and Scotland, and we’ve built this small (but fierce 💥) project in just a day and a half during the Game Jam. The times we didn’t sleep? Honestly, mostly because we were out drinking **blonde** beers 🍺 — for research purposes, obviously.
 
 ## 🕹️ Project:
-Think _Subway Surfers_ but:
+Think _Subway Surfers_... and now forget all about it because:
 - You **don't collect coins**.
 - You **don't press buttons**.
 - And you're occasionally **held hostage by memes**.
