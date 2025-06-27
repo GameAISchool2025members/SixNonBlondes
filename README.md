@@ -74,4 +74,4 @@ No blondes were involved in the making of this game.
 The only blondes involved were the beers. And they were deeply appreciated. 🍻
 
 ## License 📄
-MIT – feel free to use, break, or stare at it for too long.
+MIT – feel free to use, break, or stare at it for as long as you want.
