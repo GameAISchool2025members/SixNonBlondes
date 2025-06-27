@@ -65,7 +65,7 @@ We are SixNonBlondes, aka:
 
 🇪🇸 Yei
 
-🇵🇪 Dani
+🇵🇪 Dan
 
 🇬🇧 Vin
 
