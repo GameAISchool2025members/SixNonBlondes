@@ -19,9 +19,9 @@ That’s right: you must acknowledge the meme to proceed. You can’t escape it.
 Well… we were planning to build a Python-based ML eye tracker from scratch.
 Then we found out **Unity already had a plugin** for that.
 
-So the two ML experts on the team did what any responsible machine learning engineers would do:
-**Pivoted to full-time meme collection**.
-And **meme deployment**.
+So the two ML experts on the team did what any responsible machine learning engineers would do:  
+**Pivoted to full-time meme collection**.  
+And **meme deployment**.  
 And now, **meme README writing**.
 
 ### How it works
