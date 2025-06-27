@@ -39,8 +39,8 @@ And now, **meme README writing**.
 ## Installation 🚀
 
 > [!NOTE]
-> **Disclaimer:** It works on our machines™️  
-> **2nd Disclaimer:** Works best with functioning eyes and questionable humor tolerance.
+> **1.** It works on our machines™️  
+> **2.** Works best with functioning eyes and questionable humor tolerance.
 
 - Clone this repo.
 - Open the Unity project.
@@ -48,8 +48,8 @@ And now, **meme README writing**.
 - Stare into the void. The void stares back.
 - Look around. Obey the memes. Dodge the chaos.
 
-[!IMPORTANT]
-Note: Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
+> [!IMPORTANT]
+> Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
 
 ## Known Issues 🐛
 Calibration sometimes thinks your lamp is an eyeball.
