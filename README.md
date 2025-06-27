@@ -52,11 +52,11 @@ And now, **meme README writing**.
 > Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
 
 ## Known Issues 🐛
-Calibration sometimes thinks your lamp is an eyeball.
+Sometimes the meme just wants to be looked at forever.
 
-Eye tracking might glitch if you're too expressive. Stop being so passionate.
+If your eyes are too small, the tracker might get shy.
 
-Works best when sitting still like a gamer goblin.
+Game does not detect side-eye (yet).
 
 ## Team 🧑‍🚀🧑‍🔬
 We are SixNonBlondes, aka:
@@ -67,7 +67,7 @@ We are SixNonBlondes, aka:
 
 🇵🇪 1xPeruvians
 
-🏴 1xScottish people
+🇬🇧 1xScottish people
 
 No blondes were involved in the making of this game.
 The only blondes involved were the beers. And they were deeply appreciated. 🍻
