@@ -69,6 +69,8 @@ We are SixNonBlondes, aka:
 
 🇬🇧 Vin
 
+![team](https://github.com/user-attachments/assets/7b0ab071-c14c-4a6a-89f1-30c599fc1fc4)
+
 No blondes were involved in the making of this game.
 The only blondes involved were the beers. And they were deeply appreciated. 🍻
 
