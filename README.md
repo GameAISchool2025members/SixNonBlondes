@@ -1,41 +1,53 @@
 # SixNonBlondes 👱‍♀️🤖
 
-Hello! We are six non-blond people in a very blond country (hi Malmö 👋), attending the every-[non]hair-type-welcome [**AI & Games Summer School**](https://school.gameaibook.org/).
+Hello! We are six non-blond people in a very blond city (hi Malmö 👋), attending the every-[non]hair-type-welcome [**AI & Games Summer School**](https://school.gameaibook.org/).
 
 We come from Italy, Spain, Peru, and Scotland, and we’ve built this small (but fierce 💥) project in just a day and a half during the Game Jam. The times we didn’t sleep? Honestly, mostly because we were out drinking **blonde** beers 🍺 — for research purposes, obviously.
 
 ## 🕹️ Project: Don't Blink!
-Think Subway Surfers, but you don't collect coins, and you don't press buttons.
-Instead, you dodge obstacles using only your eyes — literally.
+Think _Subway Surfers_ but:
+- You don't collect coins.
+- You don't press buttons.
+- And you're occasionally held hostage by memes.
 
-Thanks to some eye-tracking magic (aka computer vision and messy calibration attempts), you control the player’s position just by looking around. Blink and you crash. Or don’t blink and still crash. Depends on how well you calibrated. We make no promises.
+Yes, really.
 
-How it works
-Obstacles come at you like your deadlines.
+You dodge obstacles using your eyes, thanks to an eye-tracking system built into Unity. But we made it even dumber smarter: sometimes a meme will pop up on the screen, and the only way to make it disappear is by looking directly at it.
+That’s right: you must acknowledge the meme to proceed. You can’t escape it. This is your life now.
 
-You move the player by moving your eyes, using an AI-powered eye-tracking system.
+But what about the AI?
+Well… we were planning to build a Python-based ML eye tracker from scratch.
+Then we found out Unity already had a plugin for that.
 
-If you hit something... well, you had one job.
+So the two ML experts on the team did what any responsible machine learning engineers would do:
+Pivoted to full-time meme collection.
+And meme deployment.
+And now, meme README writing.
+
+**How it works**
+- The player moves left and right based on your gaze (using Unity's eye-tracking integration).
+- Obstacles come flying at you like your to-do list.
+- Memes pop up randomly. You have to look at them to make them disappear.
+- Hit an obstacle and it’s game over. Or laugh too hard at the meme and forget to dodge — also game over.
 
 ## Tech Stack 🧠💻
-Unity (C#) for game development
-
-Eye-tracking AI (running in a separate Python module with OpenCV)
-
-WebCam input for real-time tracking
-
-Some calibration. Some chaos. A bit of beer. A lot of improvisation.
+- Unity (C#) for the game logic.
+- Unity Eye Tracking Plugin (because reinventing the wheel is for people with more time).
+- A curated set of premium-quality memes 😎.
+- A whole lot of not doing ML
 
 ## Installation 🚀
+![NOTE]
 Disclaimer: It works on our machines™️
 
-Clone this repo.
+![NOTE]
+2nd Disclaimer: Works best with functioning eyes and questionable humor tolerance.
 
-Open the Unity project.
-
-Run the scene.
-
-Stare into the void. The void stares back.
+- Clone this repo.
+- Open the Unity project.
+- Run the scene.
+- Stare into the void. The void stares back.
+- Look around. Obey the memes. Dodge the chaos.
 
 Note: Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
 
@@ -49,13 +61,13 @@ Works best when sitting still like a gamer goblin.
 ## Team 🧑‍🚀🧑‍🔬
 We are SixNonBlondes, aka:
 
-🇮🇹 Italians
+🇮🇹 4xItalians (Mama mia 🤌)
 
-🇪🇸 Spaniards
+🇪🇸 1xSpaniards
 
-🇵🇪 Peruvians
+🇵🇪 1xPeruvians
 
-🏴 Scottish people
+🏴 1xScottish people
 
 No blondes were involved in the making of this game.
 The only blondes involved were the beers. And they were deeply appreciated. 🍻
