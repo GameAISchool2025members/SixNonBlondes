@@ -37,7 +37,7 @@ And now, **meme README writing**.
 - A whole lot of not doing ML
 
 ## Installation 🚀
-[!NOTE]
+**NOTE**
 Disclaimer: It works on our machines™️
 
 [!NOTE]
