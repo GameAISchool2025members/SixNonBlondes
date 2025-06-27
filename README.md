@@ -1,6 +1,6 @@
 # SixNonBlondes 👱‍♀️🤖
 
-Hello! We are six non-blond people in a very blond country (hi Malmö 👋), attending the every-[non]hair-type-welcome AI & Games Summer School.
+Hello! We are six non-blond people in a very blond country (hi Malmö 👋), attending the every-[non]hair-type-welcome [**AI & Games Summer School**](https://school.gameaibook.org/).
 
 We come from Italy, Spain, Peru, and Scotland, and we’ve built this small (but fierce 💥) project in just a day and a half during the Game Jam. The times we didn’t sleep? Honestly, mostly because we were out drinking **blonde** beers 🍺 — for research purposes, obviously.
 
