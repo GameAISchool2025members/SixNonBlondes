@@ -37,10 +37,10 @@ And now, **meme README writing**.
 - A whole lot of not doing ML
 
 ## Installation 🚀
-![NOTE]
+[!NOTE]
 Disclaimer: It works on our machines™️
 
-![NOTE]
+[!NOTE]
 2nd Disclaimer: Works best with functioning eyes and questionable humor tolerance.
 
 - Clone this repo.
@@ -49,7 +49,7 @@ Disclaimer: It works on our machines™️
 - Stare into the void. The void stares back.
 - Look around. Obey the memes. Dodge the chaos.
 
-![IMPORTANT]
+[!IMPORTANT]
 Note: Eye-tracking requires a webcam and decent lighting. Try not to game in a cave.
 
 ## Known Issues 🐛
