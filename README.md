@@ -1,4 +1,4 @@
-# SixNonBlondes 👱‍♀️🤖
+# SixNonBlondes ❌👱‍♀️
 
 Hello! We are six non-blond people in a very blond city (hi Malmö 👋), attending the every-[non]hair-type-welcome [**AI & Games Summer School**](https://school.gameaibook.org/).
 
