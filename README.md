@@ -27,7 +27,7 @@ And now, **meme README writing**.
 ### How it works
 - The player moves left and right based on your gaze (using Unity's eye-tracking integration).
 - Obstacles come flying at you like your to-do list.
-- Memes pop up randomly. You have to look at them to make them disappear.
+- Memes pop up randomly. You have to look at them to make them disappear (mechanic not actually implemented - click the X instead as usual ^^).
 - Hit an obstacle and it’s game over. Or laugh too hard at the meme and forget to dodge — also game over.
 
 ## Tech Stack 🧠💻
@@ -45,7 +45,6 @@ And now, **meme README writing**.
 - Clone this repo.
 - Open the Unity project.
 - Run the scene.
-- Stare into the void. The void stares back.
 - Look around. Obey the memes. Dodge the chaos.
 
 > [!IMPORTANT]
