@@ -15,6 +15,9 @@ Yes, really.
 You **dodge obstacles using your eyes**, thanks to an eye-tracking system built into Unity. But we made it even dumber smarter: sometimes a meme will pop up on the screen, and the only way to make it disappear is by **looking directly at it**.
 That’s right: you must acknowledge the meme to proceed. You can’t escape it. This is your life now.
 
+![imagen](https://github.com/user-attachments/assets/f519a8d2-3cae-4db4-a27b-2c5ec41d8178)
+
+
 ### But what about the AI?
 Well… we were planning to build a Python-based ML eye tracker from scratch.
 Then we found out **Unity already had a plugin** for that.
